@@ -1,0 +1,25 @@
+{
+  "name": "mvc-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeygaitan/mvc-checkpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeygaitan/mvc-checkpoint/issues"
+  },
+  "homepage": "https://github.com/joeygaitan/mvc-checkpoint#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
