@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/joeygaitan/mvc-checkpoint#readme",
   "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
