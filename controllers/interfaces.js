@@ -6,8 +6,9 @@ const model = require('../models/interfaces')
 // }
 
 function getAll(req,res,next){
+    console.log('hello')
     const data = model.getAll()
-    res,status.json({ data })
+    res.status(200).json({ data })
 }
 
 function getOne(req,res,next){
